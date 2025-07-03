@@ -11,10 +11,8 @@ I'm passionate about game development and music production.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="30" height="30" /> C# &nbsp;&nbsp; | &nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="30" height="30" /> JavaScript &nbsp;&nbsp; | &nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" alt="DiscordJS" width="30" height="30" /> DiscordJS &nbsp;&nbsp; | &nbsp;&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Ableton_Live_Logo.svg/64px-Ableton_Live_Logo.svg.png" alt="Ableton Live" width="30" height="30" /> Ableton Live &nbsp;&nbsp; | &nbsp;&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Fmod_logo.svg/64px-Fmod_logo.svg.png" alt="FMOD" width="30" height="30" /> FMOD
-
 
 ---
 
-![Languages](https://github-readme-language-icons.vercel.app/api?username=yourusername)
+![Languages](https://github-readme-language-icons.vercel.app/api?username=Zewatara)
+
