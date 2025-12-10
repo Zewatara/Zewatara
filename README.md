@@ -1,16 +1,16 @@
 # Hi, I'm Zewa 👋
 
 Welcome to my GitHub profile!  
-I'm passionate about game development and music production.
+I like game development and audio programming.
 
 ---
 
-### ⚙️ Skills & Tools
+### ⚙️ Tools I use
 
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" alt="Unity" width="30" height="30" /> **Unity**
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="30" height="30" /> **C#**
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="30" height="30" /> **JavaScript**
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" alt="DiscordJS" width="30" height="30" /> **DiscordJS**
+- <img src="https://docs.discordnet.dev/marketing/logo/SVG/Combinationmark%20White%20Border.svg" alt="DiscordCS" width="30" height="30" /> **DiscordC#**
+- <img src="https://upload.wikimedia.org/wikipedia/commons/5/57/FMOD_logo.svg" alt="DiscordJS" width="30" height="30" /> **Fmod**
 
 ---
 
